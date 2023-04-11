@@ -1,11 +1,71 @@
 {
-  "posts": [
+  "products": [
     {
       "id": 1,
-      "title": "hello"
+      "name": "Red Seat",
+      "price": "4000",
+      "description": "This is a well designed and crafted product htat will suit many needs, in terms od quality, craftmanship and asthetics",
+      "rating": "3",
+      "img": "https://images.unsplash.com/photo-1570198561490-40196f287d94?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1074&q=80"
+    },
+    {
+      "id": 2,
+      "name": "Office Seat",
+      "price": "19999",
+      "description": "This is a well designed and crafted product htat will suit many needs, in terms od quality, craftmanship and asthetics",
+      "rating": "3",
+      "img": "https://images.unsplash.com/photo-1612372606404-0ab33e7187ee?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=678&q=80"
+    },
+    {
+      "id": 3,
+      "name": "Recliner",
+      "price": "42000",
+      "description": "This is a well designed and crafted product htat will suit many needs, in terms od quality, craftmanship and asthetics",
+      "rating": "2",
+      "img": "https://images.unsplash.com/photo-1676389368290-4ee81b4f0002?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=688&q=80"
+    },
+    {
+      "id": 4,
+      "name": "Wooden Chair",
+      "price": "22000",
+      "description": "This is a well designed and crafted product htat will suit many needs, in terms od quality, craftmanship and asthetics",
+      "rating": "4",
+      "img": "https://images.unsplash.com/photo-1506439773649-6e0eb8cfb237?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1887&q=80"
+    },
+    {
+      "name": "Trimmer",
+      "description": "Its just a trimmer",
+      "price": "200",
+      "rating": "3",
+      "img": "",
+      "id": 5
+    },
+    {
+      "name": "Table",
+      "description": "Its wooden table",
+      "price": "250000",
+      "rating": "5",
+      "img": "",
+      "id": 6
+    },
+    {
+      "name": "Bed",
+      "description": "Nice queensized bed",
+      "price": "150000",
+      "rating": "4",
+      "img": "",
+      "id": 7
+    },
+    {
+      "name": "Bottle",
+      "description": "Copper bottle for ionised water",
+      "price": "680",
+      "rating": "5",
+      "img": "",
+      "id": 8
     }
   ],
   "profile": {
-    "name": "typicode"
+    "name": "nilPatil"
   }
 }
